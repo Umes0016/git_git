@@ -1,1 +1,1 @@
-print ("Godzilla: minus one")
+print ("Godzilla: minus zero")
